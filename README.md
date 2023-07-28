@@ -12,7 +12,7 @@
 
 <br>
 
-Logical and results-driven full stack developer with a strong love for the front end. Dedicated to building user-focused applications using javascript, Typescript, Ruby, Ruby on Rails, ReactJS & Next.js. Judicious and creative when crafting effective solutions to propel competitive advantage and revenue growth under client’s requirements. Analytical problem solver with a calm and focused demeanour and open to receiving feedback.
+text...
 <br>
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
@@ -36,7 +36,7 @@ Logical and results-driven full stack developer with a strong love for the front
 <img src="https://img.shields.io/badge/Linux-666666?style=flat&logo=linux&logoColor=white">
 
 <details>
-<summary style="font-size:px;">
+<summary style="font-size:50px;">
 <img src="https://media.giphy.com/media/WDZBrmwNjm5g8qsl1F/giphy.gif" align="left" height="125px">&nbsp;&nbsp;<img src="https://media.giphy.com/media/zPlGxzu027rEELiCFr/giphy.gif" height="125px">
   
 </summary>
