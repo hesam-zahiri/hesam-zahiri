@@ -8,7 +8,7 @@
 
 :mailbox: Reach out to me!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Hesam-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rickymormor)](https://twitter.com/rickymormor) [![Mail Badge](https://img.shields.io/badge/-@rickymormor-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rickymormor) [![Mail Badge](https://img.shields.io/badge/-rickymormor1@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rickymormor1@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Hesam-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rickymormor)](https://twitter.com/rickymormor) [![Mail Badge](https://img.shields.io/badge/-@hesam-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rickymormor) [![Mail Badge](https://img.shields.io/badge/-rickymormor1@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hesam@gmail.com)
 
 <br>
 
