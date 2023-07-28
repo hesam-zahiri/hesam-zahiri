@@ -18,8 +18,7 @@ Logical and results-driven full stack developer with a strong love for the front
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
 - 🔭 I graduated as a **Full-stack Engineer** at [![](https://img.shields.io/badge/Microverse-blueviolet)](https://www.microverse.org/?grsf=c38nvm/)
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 👋 Hi, I’m @hesam-zahiri
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
