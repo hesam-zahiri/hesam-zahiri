@@ -19,11 +19,11 @@ Logical and results-driven full stack developer with a strong love for the front
 
 - 🔭 I graduated as a **Full-stack Engineer** at [![](https://img.shields.io/badge/Microverse-blueviolet)](https://www.microverse.org/?grsf=c38nvm/)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with **outstanding project ideas**. <br>
-- 📫 How to reach me: **rickymormor1@gmail.com.**
-- 😄 Pronouns: **_He/His_** or **_TeamWorker_**
-- I’m looking to collaborate with any **Open - Source web projects**<br>
-- ⚡ Fun fact: _I always try to learn something new and then sleep till it stores in the brain_<br>
+- 👋 Hi, I’m @hesam-zahiri
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
 <!--<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/>&nbsp;-->
 **_Tech & Tools Preference_**
