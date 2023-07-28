@@ -1,6 +1,5 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Hesam-Zahiri(111|)|[https://raymond.li](https://github.com/hesam-zahiri))" title="👋 Hi there! I'm (Hesam-zahiri(111|nd Li)|https://github.com/hesam-zahiri)"/>](https://github.com/hesam-zahiri/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Hesam-Zahiri(111|)|[https://github.com/hesam-zahiri](https://github.com/hesam-zahiri))" title="👋 Hi there! I'm (Hesam-zahiri(111|nd Li)|https://github.com/hesam-zahiri)"/>](https://github.com/hesam-zahiri/)
 
-![visitors](https://vbr.wocr.tk/badge?page_id=Raymo111.Raymo111&color=00cf00)
 <!--
 
 Here are some ideas to get you started:
