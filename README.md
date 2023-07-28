@@ -36,7 +36,7 @@ Logical and results-driven full stack developer with a strong love for the front
 <img src="https://img.shields.io/badge/Linux-666666?style=flat&logo=linux&logoColor=white">
 
 <details>
-<summary style="font-size:50px;">
+<summary style="font-size:px;">
 <img src="https://media.giphy.com/media/WDZBrmwNjm5g8qsl1F/giphy.gif" align="left" height="125px">&nbsp;&nbsp;<img src="https://media.giphy.com/media/zPlGxzu027rEELiCFr/giphy.gif" height="125px">
   
 </summary>
