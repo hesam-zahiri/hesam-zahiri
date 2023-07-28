@@ -34,8 +34,7 @@ text...
 <img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white">
 <img src="https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-666666?style=flat&logo=linux&logoColor=white">
+
 
 <details>
 <summary style="font-size:50px;">
