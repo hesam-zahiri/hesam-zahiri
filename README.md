@@ -32,10 +32,6 @@ Logical and results-driven full stack developer with a strong love for the front
 <img src="http://img.shields.io/badge/Git-GitBash-black?style=flat&logo=git&logoColor=white">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=white">
 <img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white">
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
 <img src="https://aleen42.github.io/badges/src/photoshop.svg">
