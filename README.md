@@ -37,7 +37,7 @@ Logical and results-driven full stack developer with a strong love for the front
 
 <details>
 <summary style="font-size:50px;">
-<img src="https://media.giphy.com/media/WDZBrmwNjm5g8qsl1F/giphy.gif" align="left" height="125px">&nbsp;<h2>More info, click here</h2>&nbsp;<img src="https://media.giphy.com/media/zPlGxzu027rEELiCFr/giphy.gif" height="125px">
+<img src="https://media.giphy.com/media/WDZBrmwNjm5g8qsl1F/giphy.gif" align="left" height="125px">&nbsp;&nbsp;<img src="https://media.giphy.com/media/zPlGxzu027rEELiCFr/giphy.gif" height="125px">
   
 </summary>
 
