@@ -17,8 +17,6 @@ I made a page so that I don't lag behind the others.😁<br>
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
-- 🔭 I graduated as a **Full-stack Engineer** at [![](https://img.shields.io/badge/Microverse-blueviolet)](#)
-
 - I am interested in technology 👀 
 - Always be learning 🗿
 
