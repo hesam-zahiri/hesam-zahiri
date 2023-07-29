@@ -35,7 +35,7 @@ I made a page so that I don't lag behind the others.😁<br>
 
 <details>
 <summary style="font-size:50px;">
-<img src="https://media.giphy.com/media/WDZBrmwNjm5g8qsl1F/giphy.gif" align="left" height="125px">.<img src="https://media.giphy.com/media/zPlGxzu027rEELiCFr/giphy.gif" height="125px">
+<img src="https://media.giphy.com/media/WDZBrmwNjm5g8qsl1F/giphy.gif"  height="125px">&nbsp;&nbsp;<img src="https://media.giphy.com/media/zPlGxzu027rEELiCFr/giphy.gif" height="125px">
   
 </summary>
 
