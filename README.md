@@ -11,8 +11,9 @@
 
 <br>
 
-text...
-<br>
+I'm a programmer & a fan of open source and things like that... 🫡 🗿
+
+I made a page so that I don't lag behind the others.😁<br>
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
