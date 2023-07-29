@@ -7,7 +7,7 @@
 
 :mailbox: Reach out to me!
 
-[![telegram Badge](https://img.shields.io/badge/-hesam-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://github.com/hesam-zahiri)]([https://github.com/hesam-zahiri](https://github.com/hesam-zahiri))
+[![telegram Badge](https://img.shields.io/badge/-hesam-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://github.com/hesam-zahiri)]([#](#))
 [![Twitter Badge](https://img.shields.io/badge/-@Hesam-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HesamZahiri?t=FPJaF2HZosIJq8FiosFSQA&s=09)](https://twitter.com/HesamZahiri?t=FPJaF2HZosIJq8FiosFSQA&s=09)  [![instagram Badge](https://img.shields.io/badge/-hesam-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white&link=https://instagram.com/hesam_zahiri?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)](https://instagram.com/hesam_zahiri?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
 [![Mail Badge](https://img.shields.io/badge/-hesam-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](#)
 <br>
