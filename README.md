@@ -16,7 +16,7 @@ I made a page so that I don't lag behind the others.😁<br>
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
-- I am interested in technology 👀 
+- I'm interested in technology 👀 
 - Always be learning 🗿
 
 <!--<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/>&nbsp;-->
