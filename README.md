@@ -32,13 +32,5 @@ I made a page so that I don't lag behind the others.😁<br>
 <img src="https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white">
 
-
-<details>
-<summary style="font-size:50px;">
-<img src="https://media.giphy.com/media/zPlGxzu027rEELiCFr/giphy.gif" align="left" height="125px">
-</summary>
-
-
-
 </details>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20some%20of%20my%20projects.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling"/>
