@@ -31,7 +31,7 @@ I made a page so that I don't lag behind the others.😁<br>
 <img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white">
 <img src="https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white">
-<img src="https://img.shields.io/badge/vim-66595C?style=flat&logo=Atom&logoColor=white">
+<img src="https://img.shields.io/badge/vim-008000?style=flat&logo=Atom&logoColor=white">
 
 </details>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20some%20of%20my%20projects.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling"/>
